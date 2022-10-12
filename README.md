@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @VishalKhati1709.
 - 👀 I’m interested in Programming stuff.
-- 🌱 I’m currently learning C++. 
+- 🌱 I'm currently learning python.
+- 🧠 I have good knowledge of C and C++.
 - 💞️ I’m looking to collaborate on Startups.
 - 📫 How to reach me - email- vishalkhati1709@gmail.com
 
