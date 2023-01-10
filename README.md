@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming stuff.
 - 🌱 I'm currently learning python.
 - 🧠 I have good knowledge of C, C++ and Data Structures and Algorithms.
-- 💞️ I’m looking to collaborate on Startups.
+- 💞️ I’m looking to collaborate with Startups.
 - 📫 How to reach me - email- vishalkhati1709@gmail.com
 
 <!---
